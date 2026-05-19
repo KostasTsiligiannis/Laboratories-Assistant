@@ -11,14 +11,6 @@ My responsibilities included assisting students during laboratory exercises, exp
 
 ---
 
-## Official Certificate
-
-The repository includes an official certificate from the course instructor confirming my participation as a Laboratory Teaching Assistant:
-
-📄 :contentReference[oaicite:0]{index=0}
-
----
-
 ## Responsibilities
 
 As a Laboratory Teaching Assistant, I was responsible for:
